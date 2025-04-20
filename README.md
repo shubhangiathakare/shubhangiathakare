@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hi 👋, I'm Shubhangi</h1>
+<h1 align="center">Hi👋, I'm I'm Shubhangi</h1>
 <h3 align="center">A passionate AI & ML enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhangiathakare&label=Profile%20views&color=0e75b6&style=flat" alt="shubhangiathakare" /> </p>
