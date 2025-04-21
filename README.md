@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://kaggle.com/kaggle.com/ shubhangithakare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle.com/ shubhangithakare" height="30" width="40" /></a>
 </p>
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
   <a href="https://www.linkedin.com/in/shubhangi-thakare-4a458325b" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubhangi-thakare" height="30" width="40" />
