@@ -29,7 +29,7 @@
     <img align="center" src="https://cdn.worldvectorlogo.com/logos/unstop.svg" alt="unstop" height="30" width="40" />
   </a>
   <a href="https://www.codechef.com/users/YOUR_USERNAME" target="blank">
-    <img align="center" src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.png" alt="codechef" height="30" width="40" />
+    <img align="center" src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.png" alt="codechef" height="40" width="50" />
   </a>
 </p>
 
