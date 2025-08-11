@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Carbon-FootPrintTracker**
 
-- 🌱 I’m currently learning **AR-VR, Competitive Coding, and System Design**
+- 🌱 I’m currently learning ** Competitive Coding, and System Design**
 
 - 👯 I’m looking to collaborate on **innovative tech projects**
 
