@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **innovative tech projects**
 
-- 💬 Ask me about **Java, Python, ML, DBMS, OS, CN**
+- 💬 Ask me about **Java, Python, ML, DBMS**
 
 - 📫 How to reach me **shubhangiathakare.skill@gmail.com**
 
