@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhangiathakare&label=Profile%20views&color=0e75b6&style=flat" alt="shubhangiathakare" /> </p>
 
-- 🔭 I’m currently working on **Carbon-FootPrintTracker**
+- 🔭 I’m currently working on **Generative AI**
 
-- 🌱 I’m currently learning ** Competitive Coding, and System Design**
+- 🌱 I’m currently learning Competitive Coding, and System Design
 
 - 👯 I’m looking to collaborate on **innovative tech projects**
 
-- 💬 Ask me about **Java, Python, ML, DBMS**
+- 💬 Ask me about **Java, Python, ML, DBMS, C, DL, DSA**
 
 - 📫 How to reach me **shubhangiathakare.skill@gmail.com**
 
