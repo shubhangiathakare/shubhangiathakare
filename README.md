@@ -59,8 +59,9 @@
 ---
 
 ### 🏆 **GitHub Trophies**
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shubhangiathakare&theme=radical&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shubhangiathakare&theme=tokyonight&row=1&column=6" />
 </p>
 
 ---
