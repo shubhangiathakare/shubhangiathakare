@@ -67,9 +67,12 @@
 ---
 
 ### 🌱 **Featured Projects**
-- [**AgriSathi**](https://github.com/shubhangithakare/AgriSathi) – Smart AI assistant for farmers 🌾  
-- [**Easy-Med**](https://github.com/shubhangithakare/Easy-Med) – Rural healthcare solution 🏥  
-- [**Sorting Algorithm Visualizer**](https://github.com/shubhangithakare/Sorting-Visualizer) – Interactive sorting tool 🔢  
+-### 🌱 **Featured Projects**
+- [**Fusion InSync HR**](https://github.com/shubhangiathakare/fusion_Insync_HR) – A comprehensive HR management system for efficient employee and data handling.  
+- [**Carbon Footprint App**](https://github.com/shubhangiathakare/Carbon-footprint-app) – A smart calculator to estimate and track individual or business carbon emissions.  
+- [**AI-Based Object Recognition & Autonomous Control for Smart Locomotives**](https://github.com/shubhangiathakare/AI-Based-Object-Recognition-and-Autonomous-Control-for-Smart-Locomotives.) – AI-powered vision system for real-time detection and control in smart railway locomotives.  
+- [**Stopwatch Application**](https://github.com/shubhangiathakare/Stopwatch-Application) – A simple yet efficient stopwatch app with a clean UI and precise timing functionalities.  
+
 
 ---
 
