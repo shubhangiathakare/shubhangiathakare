@@ -1,16 +1,15 @@
-<!-- Typing Animation Banner -->
+<!-- Banner or Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=F94F6D&center=true&vCenter=true&lines=Hi+%F0%9F%91%8B%2C+I'm+Shubhangi;AI+%26+ML+Enthusiast;Full+Stack+Developer;Tech+Explorer+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=4A90E2&center=true&vCenter=true&lines=Hi+%F0%9F%91%8B%2C+I'm+Shubhangi;AI+%26+ML+Enthusiast;Full+Stack+Developer;Tech+Explorer+%F0%9F%9A%80" />
 </h1>
 
 <h3 align="center">A Passionate AI & ML Enthusiast from India 🇮🇳</h3>
 
 <p align="center">
-  <a href="https://github.com/shubhangithakare">
-    <img src="https://komarev.com/ghpvc/?username=shubhangithakare&label=Profile%20Views&color=F94F6D&style=flat-square" alt="Profile Views" />
+  <a href="https://github.com/shubhangiathakare">
+    <img src="https://komarev.com/ghpvc/?username=shubhangiathakare&label=Profile%20views&color=4A90E2&style=flat" alt="Profile Views" />
   </a>
 </p>
-
 ---
 
 ### 🚀 **About Me**
