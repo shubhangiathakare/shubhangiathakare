@@ -105,5 +105,5 @@ A simple yet efficient stopwatch app with a clean UI and precise timing function
 
 ### 📈 **Activity Graph**
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhangiathakare&theme=radical" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhangiathakare&theme=tokyo-night" />
 </p>
