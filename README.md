@@ -58,12 +58,7 @@
 
 ---
 
-### 🏆 **GitHub Trophies**
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shubhangiathakare&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&row=2&column=3" />
-</p>
 
----
 
 ### 🌟 **Featured Projects**
 
