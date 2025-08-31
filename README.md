@@ -40,7 +40,7 @@
 
 ---
 
-### 🛠 **Languages & Tools**
+### 🛠 **Languages & Tools** 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,cpp,js,html,css,react,nodejs,express,mongodb,mysql,flutter,androidstudio,django,flask,tensorflow,pytorch,sklearn,opencv,git,github,docker,aws,gcp&perline=9" />
 </p>
