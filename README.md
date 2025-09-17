@@ -2,7 +2,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com? size=30&duration=4000&color=4A90E2&center=true&vCenter=true&lines=Hi+%F0%9F%91%8B%2C+I'm+Shubhangi;AI+%26+ML+Enthusiast;Full+Stack+Developer;Tech+Explorer+%F0%9F%9A%80" /> 
 </h1>  
-      
+       
 <h3 align="center">A Passionate AI & ML  Enthusiast from India 🇮🇳</h3>       
         
 <p align="center">   
