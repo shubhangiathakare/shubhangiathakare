@@ -22,7 +22,7 @@
 
 ---
 
-### 🤝 **Connect with Me**  
+### 🤝 **Connect with Me**   
 <p align="center">
   <a href="https://www.linkedin.com/in/shubhangi-thakare-4a458325b">
     <img src="https://img.shields.io/badge/LinkedIn-F94F6D?style=for-the-badge&logo=linkedin&logoColor=white" />
