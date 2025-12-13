@@ -70,4 +70,48 @@ A comprehensive HR management system for efficient employee and data handling.
 **Tech Stack:**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Spring](htt)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+---
+
+### 🌱 Carbon Footprint App  
+🔗 https://github.com/shubhangiathakare/Carbon-footprint-app  
+A smart calculator to estimate and track individual or business carbon emissions.
+
+**Tech Stack:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+### 🤖 AI-Based Object Recognition & Autonomous Control  
+🔗 https://github.com/shubhangiathakare/AI-Based-Object-Recognition-and-Autonomous-Control-for-Smart-Locomotives  
+AI-powered vision system for real-time detection and control in smart railway locomotives.
+
+**Tech Stack:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+---
+
+### ⏱ Stopwatch Application  
+🔗 https://github.com/shubhangiathakare/Stopwatch-Application  
+A simple and efficient stopwatch application with a clean UI.
+
+**Tech Stack:**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+## 📈 GitHub Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhangiathakare&theme=tokyo-night" />
+</p>
+
+---
+
+<h3 align="center">✨ Thanks for visiting my profile! ✨</h3>
