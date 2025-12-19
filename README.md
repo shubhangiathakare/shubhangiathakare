@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center"> 
-  A Passionate AI & ML Enthusiast from India 🇮🇳
+  A Passionate AI & ML Enthusiast from India 🇮🇳 
 </h3>
  
 <p align="center">
