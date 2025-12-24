@@ -13,7 +13,7 @@
   </a> 
 </p>
  
----
+--- 
 
 ## 🚀 About Me
 - 🔭 Currently working on **Generative AI & ML Projects**
