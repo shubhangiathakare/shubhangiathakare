@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=4A90E2&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Shubhangi+Thakare;AI+%26+ML+Enthusiast;Full+Stack+Developer;Tech+Explorer+🚀" />
 </h1>
 
-<h3 align="center">   
+<h3 align="center">    
   A Passionate AI & ML Enthusiast from India 🇮🇳 
 </h3>
    
