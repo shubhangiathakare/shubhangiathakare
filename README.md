@@ -18,7 +18,7 @@
 ## 🚀 About Me
 - 🔭 Currently working on **Generative AI & ML Projects**
 - 🌱 Learning **Competitive Coding** & **System Design**
-- 👯 Open to collaborate on **innovative tech projects**
+- 👯 Open to collaborate on **innovative tech projects 
 - 💬 Ask me about **Java, Python, ML, DL, DSA, DBMS**
 - 📫 Reach me at **shubhangiathakare.skill@gmail.com**
 
