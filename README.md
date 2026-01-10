@@ -5,7 +5,7 @@
 
 <h3 align="center">       
   A Passionate AI & ML Enthusiast from India 🇮🇳  
-</h3> 
+</h3>  
       
 <p align="center"> 
   <a href="https://github.com/shubhangiathakare">
