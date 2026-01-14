@@ -16,7 +16,7 @@
 --- 
  
 ## 🚀 About Me
-- 🔭 Currently working on **Generative AI & ML Projects** 
+- 🔭 Currently working on **Generative AI & ML Projects**  
 - 🌱 Learning **Competitive Coding** & **System Design**
 - 👯 Open to collaborate on **innovative tech projects 
 - 💬 Ask me about **Java, Python, ML, DL, DSA, DBMS**
