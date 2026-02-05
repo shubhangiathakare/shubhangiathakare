@@ -20,7 +20,7 @@
 - 🌱 Learning **Competitive Coding** & **System Design**
 - 👯 Open to collaborate on **innovative tech projects 
 - 💬 Ask me about **Java, Python, ML, DL, DSA, DBMS**
-- 📫 Reach me at **shubhangiathakare.skill@gmail.com**
+- 📫 Reach me at **shubhangiathakare.skill@gmail.com**c 
 
 ---
 
